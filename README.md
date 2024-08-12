@@ -1,3 +1,5 @@
+To install: Clone repository and install dependencies. Run login.py in a python IDE
+
 Features overview:
 
 Account system:
